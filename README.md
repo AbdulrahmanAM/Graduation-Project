@@ -1,0 +1,2 @@
+# Graduation-Project
+This project was developed to map Imam Abdulrahman Bin Faisal University students with companies and cooperative training providers. The system is called Coop Management System, it controls all the process starting with applying for a coop opportunity as a student, matching students based on company/training provider requirements, evaluate students during training period, and finally grading students. 
